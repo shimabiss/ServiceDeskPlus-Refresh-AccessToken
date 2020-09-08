@@ -1,4 +1,4 @@
-# ServiceDeskPlus-Refresh-AccessToken
+# ServiceDeskPlusRefreshAccessToken
 
 ServiceDeskPlusのAPI実行に必要なアクセストークンをリフレッシュする
 
